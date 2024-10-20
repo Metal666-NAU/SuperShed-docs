@@ -28,3 +28,7 @@ The project consists of three separate pieces of software:
 A MongoDB database is used for data storage.
 
 All of the initial data needs to be entered manually, as the logistics, accounting and other subsystems are out of the scope of this project.
+
+## Demo
+
+https://github.com/user-attachments/assets/3575ee7a-acc7-441c-8f62-fb2fd1bbd166
